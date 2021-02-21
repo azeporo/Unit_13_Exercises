@@ -1,0 +1,23 @@
+.user-reviews {
+    background-color: #36454f;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.movie {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 20px;
+}
+
+.rating {
+    color:rgba(249, 253, 18, 0.801);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.button {
+    margin-bottom: 10px;
+}
